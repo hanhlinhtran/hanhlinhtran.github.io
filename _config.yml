@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : Hanh-Linh (Linh) Tran
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/headshot.jpg"
   bio              : "I am a PhD Candidate in Political Science at Emory University"
   location         : Atlanta, GA
   email            : hanh.linh.tran@emory.edu
