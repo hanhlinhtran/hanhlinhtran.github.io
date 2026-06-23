@@ -118,7 +118,7 @@ author:
   avatar           : "/assets/images/headshot.jpg"
   bio              : "PhD Candidate in Political Science at Emory University"
   location         : Atlanta, GA
-  email            : hanh.linh.tran@emory.edu
+  # email            : hanh.linh.tran@emory.edu
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
