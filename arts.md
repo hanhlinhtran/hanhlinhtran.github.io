@@ -109,9 +109,9 @@ feature_row5:
     title: "Vườn Của Mẹ's Cats"
     excerpt: "Gouache on paper, 2018. Part of Cats of Hanoi collection."
 ---
-{% include feature_row id="intro" type="one"%}
-{% include feature_row id="feature_row1" title="Study of Hands" type="three" %}
-{% include feature_row id="feature_row2" title="Landscape" type="three" %}
-{% include feature_row id="feature_row3" title="Cats on Canvas" type="three" %}
-{% include feature_row id="feature_row4" title="Cats on Paper" type="three" %}
-{% include feature_row id="feature_row5" title="Cats on Paper" type="three" %}
+{% include feature_row id="intro" type="center"%}
+{% include feature_row id="feature_row1" title="Study of Hands" %}
+{% include feature_row id="feature_row2" title="Landscape" %}
+{% include feature_row id="feature_row3" title="Cats on Canvas" %}
+{% include feature_row id="feature_row4" title="Cats on Paper" %}
+{% include feature_row id="feature_row5" title="Cats on Paper" %}
