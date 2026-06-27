@@ -129,7 +129,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
-       url: "https://x.com/hanhlinhtran"
+      url: "https://x.com/hanhlinhtran"
     - label: "Facebook"
       icon: "fab fa-fw fa-square-facebook"
       # url: "https://facebook.com/"
