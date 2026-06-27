@@ -75,12 +75,12 @@ feature_row4:
     title: "Ben"
     excerpt: "Gouache on paper, 2024."
     
+  - image_path: /assets/images/studywithBen.jpg
+    title: "Studying with Ben"
+    excerpt: "Gouache on paper, 2021."
+    
   - image_path: /assets/images/KhanhLinh.jpg
     title: "Khanh Linh's Cats (commission)"
-    excerpt: "Gouache on paper, 2018."
-
-  - image_path: /assets/images/DaLat.jpg
-    title: "Cat in Da Lat"
     excerpt: "Gouache on paper, 2018."
 
 #-------------------------------- 5th feature row -------------------------
@@ -108,6 +108,18 @@ feature_row5:
   - image_path: /assets/images/vuoncuame.jpg
     title: "Vườn Của Mẹ's Cats"
     excerpt: "Gouache on paper, 2018. Part of Cats of Hanoi collection."
+  
+  - image_path: /assets/images/quancam.jpg
+    title: "Quán Cầm's Cats"
+    excerpt: "Gouache on paper, 2017. Part of Cats of Hanoi collection."
+  
+  - image_path: /assets/images/tochimxanh.jpg
+    title: "Tổ Chim Xanh's Cats"
+    excerpt: "Gouache on paper, 2017. Part of Cats of Hanoi collection."
+    
+  - image_path: /assets/images/gung-1.jpg
+    title: "Gừng (Ginger)"
+    excerpt: "Gouache on paper, 2017."
 ---
 {% include feature_row id="intro" type="center"%}
 {% include feature_row id="feature_row1" title="Study of Hands" %}
