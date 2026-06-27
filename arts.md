@@ -69,8 +69,24 @@ feature_row3:
   - image_path: /assets/images/Nha_cua_Linh.jpg
     title: "Linh's Home (Nhà của Linh)"
     excerpt: "Oil on canvas, 2016."
+
+#-------------------------------- 4th feature row -------------------------
+feature_row4:
+  - image_path: /assets/images/Ben.jpg
+    title: "Ben"
+    excerpt: "Gouache on paper, 2024."
+    
+  - image_path: /assets/images/KhanhLinh.jpg
+    title: "Khanh Linh's Cats"
+    excerpt: "Gouache on paper, 2018."
+
+  - image_path: /assets/images/DaLat.jpg
+    title: "Cat in Da Lat"
+    excerpt: "Gouache on paper, 2018."
+    
 ---
 {% include feature_row id="intro" type="left" %}
 {% include feature_row id="feature_row1" title="Study of Hands" %}
 {% include feature_row id="feature_row2" title="Landscape" %}
 {% include feature_row id="feature_row3" title="Cats on Canvas" %}
+{% include feature_row id="feature_row4" title="Cats on Paper" %}
