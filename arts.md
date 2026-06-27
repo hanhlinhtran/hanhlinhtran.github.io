@@ -3,23 +3,15 @@ layout: splash
 title: Arts
 permalink: /arts/
 author_profile: true
+date: 2026-06-27
 
-gallery2:
-  - url: https://flic.kr/p/8a6Ven
-    image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
-    alt: "Black and grays with a hint of green"
-  - url: https://flic.kr/p/8a738X
-    image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
-    alt: "Made for open text placement"
-  - url: https://flic.kr/p/8a6VXP
-    image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
-    alt: "Fog in the trees"
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
----
+#-------------------------------- intro -------------------------
+intro:
+  - excerpt: '
 <p>Before graduate school, I was a part-time artist/illustrator in Hanoi. My work captures my life–coffee, cats, plants, landscapes, and figure drawings. I use bold and vivid colors--either gouache on paper or oil on canvas. Though I enjoy depicting landscapes and figures, my style is not realism. I aim to show how I perceive them. My colors pulse with energy, reflecting the constant motion and evolution I sense in objects. I try to freeze moments as lasting memories while revealing their inherent change. Simply put, I capture the dynamics within stillness.</p>
 
 <p>My artwork has appeared in the Fourth and Fifth Hanoi Open Exhibitions (2017 & 2018). In 2019, I and <a href="https://tatsumasa-e.wixsite.com/erikohamada">Eriko Hamada</a> exhibited our joint project <i>Mi going to Japan</i> whose poster can still be found at Tranquil Books & Coffee 15B Tran Hung Dao, Hanoi. Recently my work was showcased at B. Jones Gallery (Emory University) in Fall 2024. </p>
   
 <p>Although graduate studies has got me busy, I always find time to create original artwork. To keep my passion alive, I sell merches--postcards, stickers, zines, and keychains--from my artwork in minifairs whenever I am back to my homecountry. My products can be found at <a href="https://www.facebook.com/QuestBookstore/">Quest Bookstore</a> (Hanoi) and <a href="https://www.facebook.com/danhansalvage/">Da Nhan</a> (Phu Yen).</p>  
-  <p> I will start putting up my artwork on this page soon.</p>
+  <p> I will start putting up my artwork on this page soon.</p>'
 
