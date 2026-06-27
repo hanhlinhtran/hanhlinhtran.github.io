@@ -54,7 +54,7 @@ feature_row3:
     title: "Sharing Fish"
     excerpt: "Oil on canvas, 2019. Part of Mi Going to Japan exhibition."
     
-  - image_path: /assets/images/Painting 9.jpg
+  - image_path: /assets/images/Painting 9.jpeg
     title: "Waking Up"
     excerpt: "Oil on canvas, 2019. Part of Mi Going to Japan exhibition."
     
@@ -66,7 +66,7 @@ feature_row3:
     title: "Linh's Home (Nhà của Linh)"
     excerpt: "Oil on canvas, 2016."
 
-  - image_path: /assets/images/VMM.JPG
+  - image_path: /assets/images/VMM.jpg
     title: "Vua Mông Mèo"
     excerpt: "Oil on canvas, 2016."
 ---
