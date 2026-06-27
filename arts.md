@@ -10,6 +10,9 @@ intro:
 
       <p>My artwork has appeared in the Fourth and Fifth Hanoi Open Exhibitions (2017 & 2018). In 2019, I and <a href="https://tatsumasa-e.wixsite.com/erikohamada">Eriko Hamada</a> exhibited our joint project <i>Mi going to Japan</i> whose poster can still be found at Tranquil Books & Coffee, 15B Tran Hung Dao, Hanoi. Recently my work was showcased at B. Jones Gallery (Emory University) in Fall 2024.</p>
       
+      <p>Although graduate studies has got me busy, I always find time to create original artwork. To keep my passion alive, I sell merches--postcards, stickers, zines, and keychains--from my artwork in minifairs whenever I am back to my homecountry. My products can be found at <a href="https://www.facebook.com/QuestBookstore/">Quest Bookstore</a> (Hanoi) and <a href="https://www.facebook.com/danhansalvage/">Da Nhan</a> (Phu Yen).</p>  
+  <p> I will start putting up my artwork on this page soon.</p>
+      
 #-------------------------------- 1st feature row -------------------------
 feature_row1:
   - image_path: /assets/images/mamashelterbelgrade.jpg
