@@ -120,6 +120,18 @@ feature_row5:
   - image_path: /assets/images/gung-1.jpg
     title: "Gừng (Ginger)"
     excerpt: "Gouache on paper, 2017."
+    
+  - image_path: /assets/images/nuitruc.jpg
+    title: "Grocery Store's Cat on Nui Truc"
+    excerpt: "Gouache on paper, 2017. Part of Cats of Hanoi collection."
+    
+  - image_path: /assets/images/manzi.jpg
+    title: "Cat Spotted on Phan Huy Ich"
+    excerpt: "Gouache on paper, 2017. Part of Cats of Hanoi collection."
+    
+    - image_path: /assets/images/merin.jpg
+    title: "Merin's Cat"
+    excerpt: "Gouache on paper, 2017. Part of Cats of Hanoi collection."
 ---
 {% include feature_row id="intro" type="center"%}
 {% include feature_row id="feature_row1" title="Study of Hands" %}
