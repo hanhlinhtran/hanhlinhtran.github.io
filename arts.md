@@ -36,6 +36,7 @@ feature_row2:
     excerpt: "Gouache on paper, 2021"
     
   - image_path: /assets/images/thoiloi2.jpg
+    width: 200
     title: "Thoi Loi Mountain 2"
     excerpt: "Gouache on paper, 2020"
     
