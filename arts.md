@@ -146,9 +146,10 @@ feature_row6:
     excerpt: "Gouache on paper, 2017. Part of Cats of Hanoi collection."
 ---
 {% include feature_row id="intro" type="center"%}
-{% include feature_row id="feature_row1" title="Study of Hands" %}
-{% include feature_row id="feature_row2" title="Landscape" %}
-{% include feature_row id="feature_row3" title="Cats on Canvas" %}
-{% include feature_row id="feature_row4" title="Cats on Paper" %}
-{% include feature_row id="feature_row6" title="Cats on Paper" %}
-{% include feature_row id="feature_row5" title="Cats on Paper" %}
+{% include feature_row id="feature_row1" %}
+{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row3" %}
+{% include feature_row id="feature_row4" %}
+{% include feature_row id="feature_row5" %}
+{% include feature_row id="feature_row6" %}
+
