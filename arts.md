@@ -14,5 +14,4 @@ feature_row1:
     title: "Trimming Ben's claws"
     excerpt: "Gouache on paper, 2022"
 ---
-
 {% include feature_row id="feature_row1" %}
