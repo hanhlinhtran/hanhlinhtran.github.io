@@ -69,7 +69,7 @@ feature_row3:
     title: "Linh's Home (Nhà của Linh)"
     excerpt: "Oil on canvas, 2016."
 ---
-#{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="center" %}
 {% include feature_row id="feature_row1" title="Study of Hands" %}
 {% include feature_row id="feature_row2" title="Landscape" %}
 {% include feature_row id="feature_row3" title="Cats on Canvas" %}
