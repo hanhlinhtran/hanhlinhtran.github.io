@@ -58,13 +58,13 @@ feature_row3:
   - image_path: /assets/images/sleepingboo2019.jpg
     title: "Sleeping Boo"
     excerpt: "Oil on canvas, 2019."
-    
-  - image_path: /assets/images/Nha_cua_Linh.jpg
-    title: "Linh's Home (Nhà của Linh)"
+
+  - image_path: /assets/images/VMM.jpeg
+    title: "Vua Mông Mèo"
     excerpt: "Oil on canvas, 2016."
 
-  - image_path: /assets/images/VMM.jpg
-    title: "Vua Mông Mèo"
+  - image_path: /assets/images/Nha_cua_Linh.jpg
+    title: "Linh's Home (Nhà của Linh)"
     excerpt: "Oil on canvas, 2016."
 ---
 #{% include feature_row id="intro" type="center" %}
