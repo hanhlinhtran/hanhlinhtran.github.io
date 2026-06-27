@@ -108,11 +108,7 @@ feature_row5:
   - image_path: /assets/images/quancam.jpg
     title: "Quán Cầm's Cats"
     excerpt: "Gouache on paper, 2017. Part of Cats of Hanoi collection."
-  
-  - image_path: /assets/images/tochimxanh.jpg
-    title: "Tổ Chim Xanh's Cats"
-    excerpt: "Gouache on paper, 2017. Part of Cats of Hanoi collection."
-    
+     
   - image_path: /assets/images/gung-1.jpg
     title: "Gừng (Ginger)"
     excerpt: "Gouache on paper, 2017."
