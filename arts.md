@@ -32,8 +32,9 @@ feature_row2:
     excerpt: "Gouache on paper, 2022"
     
   - image_path: /assets/images/vienna.jpg
-    title: "Winter at Pötzleinsdorfer Schlosspark in 2020"
+    title: "Winter at Pötzleinsdorfer Schlosspark 2020"
     excerpt: "Gouache on paper, 2021"
 ---
+{% include feature_row id="intro" type="left" %}
 {% include feature_row id="feature_row1" title="Study of Hands" %}
 {% include feature_row id="feature_row2" title="Landscape" %}
