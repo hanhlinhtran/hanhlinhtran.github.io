@@ -97,10 +97,6 @@ feature_row5:
     title: "Quán Hè's Cat"
     excerpt: "Gouache on paper, 2018. Part of Cats of Hanoi collection."
     
-  - image_path: /assets/images/quanhe.jpg
-    title: "Quán Hè's Cat"
-    excerpt: "Gouache on paper, 2018. Part of Cats of Hanoi collection."
-    
   - image_path: /assets/images/mingbaochouchou.jpg
     title: "Bean and Miu (commission)"
     excerpt: "Gouache on paper, 2018."
@@ -129,7 +125,7 @@ feature_row5:
     title: "Cat Spotted on Phan Huy Ich"
     excerpt: "Gouache on paper, 2017. Part of Cats of Hanoi collection."
     
-    - image_path: /assets/images/merin.jpg
+  - image_path: /assets/images/merin.jpg
     title: "Merin's Cat"
     excerpt: "Gouache on paper, 2017. Part of Cats of Hanoi collection."
 ---
