@@ -5,6 +5,7 @@ permalink: /arts/
 author_profile: true
 
 intro:
+  - image_path: /assets/images/artist_photo.jpg
   - excerpt: |
       <p>Before graduate school, I was a part-time artist/illustrator in Hanoi. My work captures my life—coffee, cats, plants, landscapes, and figure drawings. I use bold and vivid colors, either gouache on paper or oil on canvas. Though I enjoy depicting landscapes and figures, my style is not realism. I aim to show how I perceive them. My colors pulse with energy, reflecting the constant motion and evolution I sense in objects. I try to freeze moments as lasting memories while revealing their inherent change. Simply put, I capture the dynamics within stillness.</p>
 
