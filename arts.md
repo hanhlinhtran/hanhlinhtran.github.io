@@ -107,11 +107,11 @@ feature_row5:
     title: "Bean and Miu (commission)"
     excerpt: "Gouache on paper, 2018."
     
-   - image_path: /assets/images/vuoncuame.jpg
+  - image_path: /assets/images/vuoncuame.jpg
     title: "Vườn Của Mẹ's Cats"
     excerpt: "Gouache on paper, 2018. Part of Cats of Hanoi collection."
 ---
-{% include feature_row id="intro" type="left" type="two"%}
+{% include feature_row id="intro" type="two"%}
 {% include feature_row id="feature_row1" title="Study of Hands" type="three" %}
 {% include feature_row id="feature_row2" title="Landscape" type="three" %}
 {% include feature_row id="feature_row3" title="Cats on Canvas" type="three" %}
