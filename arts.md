@@ -6,7 +6,7 @@ author_profile: true
 
 intro:
   - excerpt: |
-      <p>Before graduate school, I was a part-time artist/illustrator in Hanoi. My work captures my life—coffee, cats, plants, landscapes, and figure drawings. I use bold and vivid colors, either gouache on paper or oil on canvas. </p>
+      <p>Before graduate school, I was a part-time artist/illustrator in Hanoi. My work captures my life—coffee, cats, plants, landscapes, and figure drawings. I use bold and vivid colors, either gouache on paper or oil on canvas. This page features selected artwork. </p>
 
       <p>My artwork has appeared in the Fourth and Fifth Hanoi Open Exhibitions (2017 & 2018). In 2019, I and <a href="https://tatsumasa-e.wixsite.com/erikohamada">Eriko Hamada</a> exhibited our joint project <i>Mi going to Japan</i> whose poster can still be found at Tranquil Books & Coffee, 15B Tran Hung Dao, Hanoi. Recently my work was showcased at B. Jones Gallery (Emory University) in Fall 2024.</p>
       
