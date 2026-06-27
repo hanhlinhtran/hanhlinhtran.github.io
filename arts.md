@@ -14,18 +14,12 @@ intro:
 #-------------------------------- 1st feature row -------------------------
 feature_row1:
   - image_path: /assets/images/mamashelterbelgrade.jpg
-    #alt: ""
     title: "Hands, Mama Shelter Belgrade"
     excerpt: "Gouache on paper, 2024."
 
   - image_path: /assets/images/trimclaws.jpg
-    #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    #alt: "Dog 1"
     title: "Trimming Ben's claws"
-    excerpt: "Gouace on paper, 2022"
-    #url: "#test-link"
-    #btn_label: "Read More"
-    #btn_class: "btn--primary"
+    excerpt: "Gouache on paper, 2022"
 ---
 {% include feature_row id="intro" type="left" %}
 {% include feature_row id="feature_row1" %}
