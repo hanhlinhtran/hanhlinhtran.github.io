@@ -78,16 +78,42 @@ feature_row4:
     excerpt: "Gouache on paper, 2024."
     
   - image_path: /assets/images/KhanhLinh.jpg
-    title: "Khanh Linh's Cats"
+    title: "Khanh Linh's Cats (commission)"
     excerpt: "Gouache on paper, 2018."
 
   - image_path: /assets/images/DaLat.jpg
     title: "Cat in Da Lat"
     excerpt: "Gouache on paper, 2018."
+
+#-------------------------------- 5th feature row -------------------------
+feature_row5:
+  - image_path: /assets/images/latte.jpg
+    title: "Latte"
+    excerpt: "Latte, 2022."
     
+  - image_path: /assets/images/hangma.jpg
+    title: "Hàng Mã's Cats"
+    excerpt: "Gouache on paper, 2018. Part of Cats of Hanoi collection."
+
+  - image_path: /assets/images/quanhe.jpg
+    title: "Quán Hè's Cat"
+    excerpt: "Gouache on paper, 2018. Part of Cats of Hanoi collection."
+    
+  - image_path: /assets/images/quanhe.jpg
+    title: "Quán Hè's Cat"
+    excerpt: "Gouache on paper, 2018. Part of Cats of Hanoi collection."
+    
+  - image_path: /assets/images/mingbaochouchou.jpg
+    title: "Bean and Miu (commission)"
+    excerpt: "Gouache on paper, 2018."
+    
+   - image_path: /assets/images/vuoncuame.jpg
+    title: "Vườn Của Mẹ's Cats"
+    excerpt: "Gouache on paper, 2018. Part of Cats of Hanoi collection."
 ---
-{% include feature_row id="intro" type="left" %}
-{% include feature_row id="feature_row1" title="Study of Hands" %}
-{% include feature_row id="feature_row2" title="Landscape" %}
-{% include feature_row id="feature_row3" title="Cats on Canvas" %}
-{% include feature_row id="feature_row4" title="Cats on Paper" %}
+{% include feature_row id="intro" type="left" type="two"%}
+{% include feature_row id="feature_row1" title="Study of Hands" type="three" %}
+{% include feature_row id="feature_row2" title="Landscape" type="three" %}
+{% include feature_row id="feature_row3" title="Cats on Canvas" type="three" %}
+{% include feature_row id="feature_row4" title="Cats on Paper" type="three" %}
+{% include feature_row id="feature_row5" title="Cats on Paper" type="six" %}
