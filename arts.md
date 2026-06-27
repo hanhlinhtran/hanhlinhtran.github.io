@@ -34,10 +34,14 @@ feature_row2:
   - image_path: /assets/images/vienna.jpg
     title: "Winter at Pötzleinsdorfer Schlosspark"
     excerpt: "Gouache on paper, 2021"
-  
+    
+  - image_path: /assets/images/thoiloi2.jpg
+    title: "Thoi Loi Mountain 2"
+    excerpt: "Gouache on paper, 2020"
+    
   - image_path: /assets/images/thoiloi.jpg
     title: "Thoi Loi Mountain"
-    excerpt: "Gouache on paper, 2020"
+    excerpt: "Gouache on paper, 2019"
 ---
 {% include feature_row id="intro" type="left" %}
 {% include feature_row id="feature_row1" title="Study of Hands" %}
