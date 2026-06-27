@@ -88,10 +88,28 @@ feature_row4:
 
 #-------------------------------- 5th feature row -------------------------
 feature_row5:
+  - image_path: /assets/images/desmonddrive.jpg
+    title: "Sweet Nothing"
+    excerpt: "Gouache on paper, 2026."
+    
+  - image_path: /assets/images/kimma.jpg
+    title: "Coffee Station at Home"
+    excerpt: "Gouache on paper, 2021."
+  
+  - image_path: /assets/images/multitasking.jpg
+    title: "Inundated"
+    excerpt: "Gouache on paper, 2020."
+    
+  - image_path: /assets/images/latte.jpg
+    title: "Berries"
+    excerpt: "Gouache on paper, 2023."
+    
   - image_path: /assets/images/latte.jpg
     title: "Latte"
-    excerpt: "Latte, 2022."
+    excerpt: "Gouache on paper, 2022."
     
+#-------------------------------- 6th feature row -------------------------
+feature_row6:
   - image_path: /assets/images/hangma.jpg
     title: "Hàng Mã's Cats"
     excerpt: "Gouache on paper, 2018. Part of Cats of Hanoi collection."
@@ -133,4 +151,5 @@ feature_row5:
 {% include feature_row id="feature_row2" title="Landscape" %}
 {% include feature_row id="feature_row3" title="Cats on Canvas" %}
 {% include feature_row id="feature_row4" title="Cats on Paper" %}
+{% include feature_row id="feature_row6" title="Cats on Paper" %}
 {% include feature_row id="feature_row5" title="Cats on Paper" %}
