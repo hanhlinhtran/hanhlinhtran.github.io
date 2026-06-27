@@ -20,5 +20,20 @@ feature_row1:
   - image_path: /assets/images/trimclaws.jpg
     title: "Trimming Ben's claws"
     excerpt: "Gouache on paper, 2022"
+    
+#-------------------------------- 2nd feature row -------------------------
+feature_row2:
+  - image_path: /assets/images/tamsui_page-0001.jpg
+    title: "Tamsui"
+    excerpt: "Gouache on paper, 2025."
+
+  - image_path: /assets/images/emory.jpg
+    title: "Emory University August 2022"
+    excerpt: "Gouache on paper, 2022"
+    
+  - image_path: /assets/images/vienna.jpg
+    title: "Winter at Pötzleinsdorfer Schlosspark in 2020"
+    excerpt: "Gouache on paper, 2021"
 ---
 {% include feature_row id="feature_row1" title="Study of Hands" %}
+{% include feature_row id="feature_row2" title="Landscape" %}
