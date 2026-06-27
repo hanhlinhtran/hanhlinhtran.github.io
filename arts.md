@@ -74,6 +74,17 @@ feature_row3:
 
 #-------------------------------- 4th feature row -------------------------
 feature_row4:
+  - image_path: /assets/images/desmonddrive.jpg
+    title: "Sweet Nothing"
+    excerpt: "Gouache on paper, 2026."
+    
+  - image_path: /assets/images/kimma.jpg
+    title: "Coffee Station at Home"
+    excerpt: "Gouache on paper, 2021."
+  
+  - image_path: /assets/images/multitasking.jpg
+    title: "Inundated"
+    excerpt: "Gouache on paper, 2020."
   - image_path: /assets/images/Ben.jpg
     title: "Ben"
     excerpt: "Gouache on paper, 2024."
@@ -88,19 +99,7 @@ feature_row4:
 
 #-------------------------------- 5th feature row -------------------------
 feature_row5:
-  - image_path: /assets/images/desmonddrive.jpg
-    title: "Sweet Nothing"
-    excerpt: "Gouache on paper, 2026."
-    
-  - image_path: /assets/images/kimma.jpg
-    title: "Coffee Station at Home"
-    excerpt: "Gouache on paper, 2021."
-  
-  - image_path: /assets/images/multitasking.jpg
-    title: "Inundated"
-    excerpt: "Gouache on paper, 2020."
-    
-  - image_path: /assets/images/latte.jpg
+  - image_path: /assets/images/berries_less satur.jpg
     title: "Berries"
     excerpt: "Gouache on paper, 2023."
     
