@@ -136,9 +136,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/HanhLinhTran_CV.pdf"
 
 # Disable footer completely
 footer: false
